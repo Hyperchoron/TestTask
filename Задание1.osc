@@ -1,0 +1,1 @@
+<osmChange version="0.6" generator="iD"><create><relation id="-1" version="0"><member type="way" role="from" ref="222326148"/><member type="node" role="via" ref="471530994"/><member type="way" role="to" ref="45819652"/><tag k="type" v="restriction"/><tag k="restriction" v="no_left_turn"/></relation></create><modify/><delete if-unused="true"/></osmChange>
