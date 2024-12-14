@@ -21,13 +21,6 @@ namespace LineStrings
 
                 parser.ParseAndPaintTo(app);
 
-                app.BeginLineString();
-
-                app.LineStringPoint(100, 100);
-                app.LineStringPoint(200, 200);
-
-                app.EndLineString();
-
                 app.IsVisible = true;
 
                 app.Run();
